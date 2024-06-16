@@ -1,10 +1,14 @@
 Body {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/129/337/original/_94a7fcbb-dd39-4a6c-92b4-697e7e724161.jpg?1718570956");
+  background-repeat: no-repeat;
+  background-size: cover;
   background-color: #f9f7fe;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
-  color: #885df1;
+  color: #290ccb;
+  font-weight: bold;
 }
 .container {
   margin: 120px auto;
